@@ -1,4 +1,4 @@
-#달달맛숙제 최상욱 깃헙추가
+#달달맛숙제 최상욱 깃헙과 슬랙 연동중
 import requests
 from bs4 import BeautifulSoup
 

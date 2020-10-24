@@ -1,4 +1,4 @@
-#씁쓸맛숙제 최상욱 깃헙추가
+#씁쓸맛숙제 최상욱 깃헙과 슬랙을 연동해요
 import requests
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
