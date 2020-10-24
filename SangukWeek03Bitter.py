@@ -1,4 +1,4 @@
-#씁쓸맛숙제 최상욱
+#씁쓸맛숙제 최상욱 깃헙추가
 import requests
 from bs4 import BeautifulSoup
 from pymongo import MongoClient
